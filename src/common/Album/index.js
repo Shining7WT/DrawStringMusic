@@ -3,7 +3,7 @@ import Player from "./Player";
 
 const Album = () => {
     return (
-        <>
+        <div className="w-1/2">
             <div className="flex items-center justify-between">
                 <p className="text-xl leading-normal font-bold">Album Name</p>
                 <button className="border-2 border-white py-1.5 px-6 text-sm rounded-full font-semibold">Play All</button>
@@ -13,7 +13,7 @@ const Album = () => {
                     [1, 2, 3, 4, 5].map((item) => <Player key={item} item={item}/>)
                 }
             </div>
-        </>
+        </div>
     );
 };
 
