@@ -11,6 +11,8 @@ import { SearchIcon } from '@heroicons/react/solid';
 
 import drawStringLogo from '../../assets/drawstringLogo.png';
 import music from '../../assets/music.png';
+import album from '../../assets/album.png';
+
 
 const path = window.location.pathname;
 const navigation = [
@@ -153,6 +155,10 @@ export default function Layout(props) {
                   </a>
                 ))}
               </nav>
+
+              {/*music album component*/}
+              <img src={album} alt="album"/>
+
             </div>
           </div>
         </div>
@@ -240,7 +246,8 @@ export default function Layout(props) {
           </div>
 
           <main className="flex-1">
-            <div className="py-6 px-4 sm:px-6 md:px-8">
+            <div>
+            {/*<div className="py-6 px-4 sm:px-6 md:px-8">*/}
               {props.children}
             </div>
           </main>

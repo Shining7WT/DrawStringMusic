@@ -13,6 +13,8 @@ module.exports = {
         card1:"#D5EFF7",
         card2:"#F4F3EB",
         card3:"#E5E3F7",
+        body:"#413C5F",
+        trackHover:'#242C46',
         lightGrayBackground:"#F6F8F9"
       }
     },
