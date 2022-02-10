@@ -4,6 +4,9 @@ module.exports = {
     extend: {
       fontFamily: {
         'rubik': ['Rubik', 'sans-serif'],
+        'hk': [ "Sora", "sans-serif" ],
+        'ep':["Epilogue","sans-serif"]
+
       },
       colors:{
         primary:"#54A0FF",

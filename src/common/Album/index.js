@@ -5,8 +5,8 @@ const Album = () => {
     return (
         <>
             <div className="flex items-center justify-between">
-                <p className="text-3xl">Album Name</p>
-                <button className="border-2 border-white py-1.5 px-6 text-xl rounded-full">Play All</button>
+                <p className="text-xl leading-normal font-bold">Album Name</p>
+                <button className="border-2 border-white py-1.5 px-6 text-sm rounded-full font-semibold">Play All</button>
             </div>
             <div className="py-6">
                 {
