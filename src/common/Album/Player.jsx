@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-    PlusIcon
-} from '@heroicons/react/outline';
 import albumCOver from '../../assets/album.png';
-import {ReactComponent as PlayIcon} from "../../assets/icons/Icon.svg";
-import {ReactComponent as PauseIcon} from "../../assets/icons/pause.svg";
-
 
 const Player = ({item}) => {
     return (
