@@ -4,9 +4,8 @@ import HowItWork from "../../common/HowItWork";
 
 const Dashboard = () => {
     return (
-        <div className="bg-body w-full h-screen px-14 text-white font-hk">
-
-            <div className="flex space-x-10 h-full p-4">
+        <div className="bg-body w-full h-screen px-16 text-white font-hk pt-10">
+            <div className="grid md:grid-cols-2 gap-[50px] h-full">
                 <Album/>
                 <HowItWork/>
             </div>
