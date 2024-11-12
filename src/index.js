@@ -17,5 +17,5 @@ ReactDOM.render(
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
-// check test eth - Test is passed - okay
+// sent all
 reportWebVitals();
