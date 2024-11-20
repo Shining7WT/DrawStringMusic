@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Donate Address (Give me a coffee)
 
-ERC - 0x7F4988e3963423fDb0974F264E115D847Cd805d8
+ERC - 0xBC5564806E63771c302f26d2D53e5bAc3d51B8Dd
 
-TRC - TCXQibib4Ck9jQwiP6Xh2pwzzrqwA6pReT
+TRC - TDH6Lpgv8V4aBmz1yDjKjdbJK5zHPjRp6U
