@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ERC - 0xBC5564806E63771c302f26d2D53e5bAc3d51B8Dd
 
 TRC - TDH6Lpgv8V4aBmz1yDjKjdbJK5zHPjRp6U
+
+TRC2 - TUCio5UkWEwB3RbRyDDq3ujMgjPzdBipAt
